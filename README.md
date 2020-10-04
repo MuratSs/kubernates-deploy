@@ -6,7 +6,6 @@ Useful for deploy bots.
 
 Includes `main.go` sample app demonstrates its features.
 
-[![Build Status](https://travis-ci.org/Unity-Technologies/kubernetes-deploy.png?branch=master)](https://travis-ci.org/Unity-Technologies/kubernetes-deploy)
 
 # How does it work?
 
