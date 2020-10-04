@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/Unity-Technologies/kubernetes-deploy/deploy"
+	"github.com/MuratSs/kubernetes-deploy/deploy"
 	"github.com/joho/godotenv"
 )
 
